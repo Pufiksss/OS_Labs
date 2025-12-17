@@ -1,0 +1,8 @@
+[
+  {
+    "label": "C/C++: run $ZED_FILENAME",
+    "command": "sh build.sh $ZED_FILE | sh",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "tags": ["C/C++"]
+  }
+]
